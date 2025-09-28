@@ -1,0 +1,9 @@
+{
+	"name": "zaiden",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "df067446-ff64-4e11-a749-289bee356d61",
+		"tenantId": "1f44e7dc-73fd-4725-a0ae-b46d68b5de92"
+	}
+}
