@@ -13,7 +13,14 @@
 					"secureOutput": false,
 					"secureInput": false
 				},
-				"userProperties": []
+				"userProperties": [],
+				"typeProperties": {
+					"notebookPath": "/Repos/zseleme@hotmail.com/pipeline-azure-databricks/Notebook sem título 2025-09-28 14_57_52"
+				},
+				"linkedServiceName": {
+					"referenceName": "Databricks_datafactory_link",
+					"type": "LinkedServiceReference"
+				}
 			},
 			{
 				"name": "Camada-Silver",
@@ -33,7 +40,14 @@
 					"secureOutput": false,
 					"secureInput": false
 				},
-				"userProperties": []
+				"userProperties": [],
+				"typeProperties": {
+					"notebookPath": "/Repos/zseleme@hotmail.com/pipeline-azure-databricks/Notebook sem título 2025-09-28 14_57_52"
+				},
+				"linkedServiceName": {
+					"referenceName": "Databricks_datafactory_link",
+					"type": "LinkedServiceReference"
+				}
 			}
 		],
 		"annotations": []
